@@ -69,7 +69,7 @@ public class ClassiAnonime {
 			}
 		};
 
-		aMangiaPizza.mangia();//gnam gnam
+		o.mangia();//gnam gnam
 		aMangiaPizza.mangia();//pizza
 
 
