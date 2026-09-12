@@ -14,7 +14,6 @@ Il repository contiene materiali didattici e esercizi del corso.
 2. Naviga nella directory desiderata
 3. Compila ed esegui i file Java
 
-```bash
 javac NomeFile.java
 java NomeFile
 
